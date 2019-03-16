@@ -1,0 +1,14 @@
+.Sunday {
+  background-color: #009900;
+  animation-name: AnimatedBackground;
+}
+
+@keyframes AnimatedBackground {
+  from {
+    background-color: #009900;
+  }
+
+  to {
+    background-color: #006600;
+  }
+}
