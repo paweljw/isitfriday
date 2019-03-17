@@ -2,7 +2,3 @@
     command = "yarn build"
     functions = "lambda"
     publish = "build"
-
-[[redirects]]
-  from = "/friday.json"
-  to = "/.netlify/functions/friday"
